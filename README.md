@@ -1,4 +1,4 @@
-## A simple algorithm calcutor built with Laravel
+## A simple algorithm calculator built with Laravel
 
 Task Overview:
 
